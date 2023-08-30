@@ -1,0 +1,26 @@
+#Person {
+    height: 100%;
+    margin: 0 0 0 0;
+    padding: 1px 1px 0 0;
+    background: white;
+  .Person {
+    margin-bottom: 80px;
+    margin-top: 100px;
+    display: flex;
+    align-items: start;
+    img {
+      width: 385px;
+      height: 525px;
+      border-radius: 20px;
+      margin-right: 50px;
+      box-shadow: 15px 17px 18px 7px rgba(0,0,0,0.75);
+-webkit-box-shadow: 15px 17px 18px 7px rgba(0,0,0,0.75);
+-moz-box-shadow: 15px 17px 18px 7px rgba(0,0,0,0.75);
+    }
+    p {
+      padding-bottom: 22px;
+      line-height: 23px;
+      font-size: 17px;
+    }
+  }
+}
